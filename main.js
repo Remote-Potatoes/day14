@@ -14,4 +14,6 @@ function keyPressed() {
 
 function preload() {
   // here we will need to load our assets
+  bgImage = loadImage("./assets/wide.jpg");
+  theViking = loadImage("./assets/character-right.png");
 }
