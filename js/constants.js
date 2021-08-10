@@ -8,4 +8,6 @@ let bgImage;
 
 let theViking;
 
+let bgImage2;
+
 const GRAVITY = 0.3;
